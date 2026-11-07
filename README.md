@@ -1,53 +1,55 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16324F,100:38BDF8&height=220&section=header&text=BEASTCODES27&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20WEB%20%26%20MOBILE&descSize=15&descAlignY=58" alt="BEASTCODES27 — Full-Stack Developer" />
-</p>
+<h1 align="center"> BEASTCODES27 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Thoughtful+interfaces.+Practical+solutions.;From+frontend+details+to+backend+logic.;Building+for+the+web+and+mobile." alt="Thoughtful interfaces. Practical solutions. From frontend details to backend logic. Building for the web and mobile." />
-</p>
-
-<p align="center">
-  Building connected applications with a focus on clarity, usability, and maintainable code.
-</p>
-
-<p align="center">
-  <a href="https://github.com/ahmmikun?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Work-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore my repositories" />
+  <a href="https://github.com/ahmmikun">
+    <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="300">
   </a>
 </p>
-
----
-
-### About
-
-I work across frontend, backend, and mobile development, connecting user
-interfaces with the services and data behind them.
-
-My approach is straightforward: understand the problem, keep the implementation
-clear, and build software that is useful.
-
-### Technology Stack
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript, TypeScript, PHP |
-| **Frontend** | React, Tailwind CSS, HTML, CSS |
-| **Mobile** | React Native |
-| **Backend** | Node.js, Express |
-| **Databases** | PostgreSQL, MySQL |
-| **Cloud & Services** | AWS, Firebase |
-| **Version Control** | Git, GitHub |
-
-### Development Focus
-
-- **Web applications** — responsive interfaces connected to backend services.
-- **Mobile experiences** — cross-platform applications with React Native.
-- **APIs & data** — application logic, service integrations, and relational databases.
-
----
-
-<p align="center">
-  <sub>Clear thinking. Thoughtful code. Useful software.</sub>
 </p>
+<h1 align="center"> VIBING LIKE WI-FI SIGNALS .. </h1>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=fix+the+matrix+%F0%9F%94%A5;Break+the+Matrix+%F0%9F%92%BB;Automate+Everything+%E2%9C%8C%EF%B8%8F;Born+to+Code+%F0%9F%92%BB;No+Rules.+No+Limits+%F0%9F%94%A5" alt="Typing SVG" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16324F,100:38BDF8&height=110&section=footer" alt="" />
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+
+
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+</div>
+
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+
+</div>"
