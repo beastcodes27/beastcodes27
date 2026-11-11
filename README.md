@@ -1,28 +1,68 @@
-<h1 align="center">Hi 👋, I'm beastcodes 27</h1>
-<h3 align="center">A passionate software and mobile apps developer from Tanzania</h3>
-
-- 🔭 I’m currently working on **SmartAttend**
-
-- 🌱 I’m currently learning **yii2, flutter**
-
-- 👨‍💻 All of my projects are available at [beast.devtz.com](beast.devtz.com)
-
-- 📝 I regularly write articles on [beast.devtz.com](beast.devtz.com)
-
-- 💬 Ask me about **react,laravel,html,css**
-
-- 📫 How to reach me **beastcodes27@gmail.com**
-
-- 📄 Know about my experiences [beast.devtz.com](beast.devtz.com)
-
-- ⚡ Fun fact **i think i have funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/iman ibraah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iman ibraah" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=beastcodes27&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200498277%3Fu%3D08e9779498df9aba1bc092eaaad9cff3f975c979%26v%3D4" alt="beastcodes27 hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center"><b>BEASTCODES</b> · Frontend or full-stack engineer<br/><sub>Hey, I'm BeastCodes — a passionate developer focused on building clean, modern and scalable web applications. @DevConnect-TZ</sub></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastcodes27&" alt="beastcodes27" /></p>
+<p align="center"><a href="https://github.com/beastcodes27">GitHub</a> · <a href="https://Beastcodesmm.com">Website</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=beastcodes27&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200498277%3Fu%3D08e9779498df9aba1bc092eaaad9cff3f975c979%26v%3D4" alt="beastcodes27 projects visual" />
+</p>
+
+- [wifi-billing](https://github.com/beastcodes27/wifi-billing) · ★ 1
+- [superbet-front](https://github.com/beastcodes27/superbet-front) · ★ 1
+- [CASH_ODDS-backend](https://github.com/beastcodes27/CASH_ODDS-backend) · ★ 1
+- [dev-portifolio](https://github.com/beastcodes27/dev-portifolio) · ★ 1
+- [ShuleReport](https://github.com/beastcodes27/ShuleReport) · ★ 1
+- [CASH_ODDS](https://github.com/beastcodes27/CASH_ODDS) · ★ 1
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=beastcodes27&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200498277%3Fu%3D08e9779498df9aba1bc092eaaad9cff3f975c979%26v%3D4" alt="beastcodes27 stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>31</b> public repositories, <b>19</b> stars, <b>1,676</b> contributions in the last year, a longest streak of <b>29</b> days and <b>3</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=beastcodes27&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200498277%3Fu%3D08e9779498df9aba1bc092eaaad9cff3f975c979%26v%3D4" alt="beastcodes27 stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=beastcodes27&theme=neon" alt="beastcodes27 contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=beastcodes27&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200498277%3Fu%3D08e9779498df9aba1bc092eaaad9cff3f975c979%26v%3D4" alt="beastcodes27 social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>BEASTCODES · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
