@@ -64,5 +64,7 @@
 </p>
 
 </details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastcodes27&" alt="beastcodes27" /></p>
+
 
 <p align="center"><sub>BEASTCODES · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
