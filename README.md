@@ -59,8 +59,7 @@
   <img src="https://www.gitskins.com/api/section/social?username=beastcodes27&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200498277%3Fu%3D08e9779498df9aba1bc092eaaad9cff3f975c979%26v%3D4" alt="beastcodes27 social visual" />
 </p>
 
-</details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastcodes27&" alt="beastcodes27" /></p>
+
 
 
 <p align="center"><sub>BEASTCODES · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
