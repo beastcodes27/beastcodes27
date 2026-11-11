@@ -14,12 +14,8 @@
   <img src="https://www.gitskins.com/api/section/projects?username=beastcodes27&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F200498277%3Fu%3D08e9779498df9aba1bc092eaaad9cff3f975c979%26v%3D4" alt="beastcodes27 projects visual" />
 </p>
 
-- [wifi-billing](https://github.com/beastcodes27/wifi-billing) · ★ 1
-- [superbet-front](https://github.com/beastcodes27/superbet-front) · ★ 1
-- [CASH_ODDS-backend](https://github.com/beastcodes27/CASH_ODDS-backend) · ★ 1
-- [dev-portifolio](https://github.com/beastcodes27/dev-portifolio) · ★ 1
-- [ShuleReport](https://github.com/beastcodes27/ShuleReport) · ★ 1
-- [CASH_ODDS](https://github.com/beastcodes27/CASH_ODDS) · ★ 1
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beastcodes27&" alt="beastcodes27" /></p>
+
 
 </details>
 
